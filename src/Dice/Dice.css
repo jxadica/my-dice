@@ -1,0 +1,23 @@
+h2 {
+    color: red;
+}
+
+
+img {
+    width: 100px;
+    height: 100px;
+    display: none;
+}
+
+.main {
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    margin: 15px;
+}
+button {
+    width: 100px;
+    border-radius: 20px;
+    background-color: rgb(108, 118, 179);
+    color: aliceblue;
+}
